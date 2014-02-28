@@ -6,7 +6,7 @@
         "required": true
     }, 
     "type": "tms", 
-    "name": "Geodatastyrelsen (Denmark)", 
+    "name": "Geodatastyrelsen (Denmark)- Mapproxy", 
     "extent": {
         "max_zoom": 21,
         "bbox": {
